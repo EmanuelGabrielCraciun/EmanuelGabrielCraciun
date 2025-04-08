@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-## Hi, I'm Emanuel Gabriel Craciun<br>🌱Currently looking to improve my efficiency in coding🌱<br> :telescope: Wants to merge the passion for Physics and coding :telescope:	 <br>⚡Starting to learn Django and Flask⚡ 
+## Hi, I'm Emanuel Gabriel Craciun, junior dev<br>🌱Currently looking to improve my efficiency in coding🌱<br> :telescope: Wants to merge the passion for Physics and coding :telescope:	 <br>⚡Starting to learn Django and Flask⚡ 
 
 
 
